@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCPUAalysis", "SimpleCPUAnalysis\SimpleCPUAalysis.csproj", "{DEA66CB6-DF63-4472-A42C-871F0562758C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEA66CB6-DF63-4472-A42C-871F0562758C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEA66CB6-DF63-4472-A42C-871F0562758C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEA66CB6-DF63-4472-A42C-871F0562758C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEA66CB6-DF63-4472-A42C-871F0562758C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AE996AE-E0BB-4023-9258-2E73CEB73CD9}
+	EndGlobalSection
+EndGlobal
