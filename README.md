@@ -6,7 +6,7 @@ An old recoil macro created at least 3 years ago
 Bunifu framework (I used v1.5.3)
 
 ### Desc
-This is just my version of the extremely common "recoil macros" that are ubiquitous on the internet. The purpose of this project was to help compensate for the recoil in rainbow six siege, and to get somewhat familiar with win forms. I also wanted to look into the bunifu framework since it looked cool (this is removed from the project). The actual names of the files and directories are completely unrelated to the purpose of the project in case battleye checks for stuff like that. I believe I used this for 6 months or so and never had any issues.
+The purpose of this project was to help compensate for the recoil in rainbow six siege, and to get somewhat familiar with win forms. I also wanted to look into the bunifu framework since it looked cool (this is removed from the project). The actual names of the files and directories are completely unrelated to the purpose of the project in case battleye checks for stuff like that. I believe I used this for 6 months or so and never had any issues.
 
 ### How to build
 Once you have the bunifu dll (you should just be able to throw in the /bin/debug or /bin/release directory) everything should be all set to build the project
